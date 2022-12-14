@@ -27,6 +27,10 @@ Dotenv
 
 Composer
 
+# Development process (continuous notes)
+
+Require autoload
+
 # Vscode settings
 
 # Installed dependencies + configurations
