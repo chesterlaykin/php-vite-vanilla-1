@@ -23,6 +23,8 @@ not Working
 
 # Added parts (continuous notes)
 
+Dotenv
+
 Composer
 
 # Vscode settings
